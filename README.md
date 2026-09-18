@@ -1,4 +1,3 @@
-# Analisis_numerik_gerai_donat
 #  Analisis Penjualan & Breakeven Point Gerai Donat
 
 ##  Deskripsi
